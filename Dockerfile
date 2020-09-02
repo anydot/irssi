@@ -8,3 +8,4 @@ RUN \
     && rm -rf /var/cache/apt/archives /var/lib/apt/lists/* /root/.cpanm
 
 USER user
+CMD ["irssi"]
