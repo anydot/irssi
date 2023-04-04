@@ -1,4 +1,4 @@
-FROM library/irssi:1.4.3
+FROM library/irssi:1.4.4
 USER root
 
 RUN \
