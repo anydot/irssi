@@ -21,4 +21,3 @@ jobs:
         GITHUB_TOKEN: ${{ secrets.TAG_PAT }}
         DEFAULT_BUMP: ${{ github.event.inputs.bump }}
         WITH_V: true
-        INITIAL_VERSION: v2.0.0
